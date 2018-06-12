@@ -1,0 +1,48 @@
+# Summary
+
+* [文档历史](README.md)
+* API文档说明
+* 1.概述
+    * [访问路径](chapter1/section1.1.md)
+    * [其他](chapter1/section1.2.md)
+* 2.鉴权
+    * [说明](chapter2/section2.1.md)
+    * API
+        * [获取token](chapter2/section2.2/subsection2.2.1.md)
+        * [参数签名](chapter2/section2.2/subsection2.2.2.md)
+        * [签名&令牌传递](chapter2/section2.2/subsection2.2.3.md)
+* 3.业务接口
+    * [状态迁移图](chapter3/section3.1.md)
+    * API
+        * [获取配置](chapter3/section3.2/subsection3.2.1.md)
+        * [附近出租车](chapter3/section3.2/subsection3.2.2.md)
+        * [询价](chapter3/section3.2/subsection3.2.3.md)
+        * [获取订单ID](chapter3/section3.2/subsection3.2.4.md)
+        * [下单](chapter3/section3.2/subsection3.2.5.md)
+        * [订单查询](chapter3/section3.2/subsection3.2.6.md)
+        * [增加调度费](chapter3/section3.2/subsection3.2.7.md)
+        * [获取推荐优惠券](chapter3/section3.2/subsection3.2.8.md)
+        * [支付](chapter3/section3.2/subsection3.2.9.md)
+        * [取消订单](chapter3/section3.2/subsection3.2.10.md)
+        * [投诉](chapter3/section3.2/subsection3.2.11.md)
+* 4.合作方回调API
+    * [更新配置通知](chapter4/section4.1.md)
+    * [订单状态变化通知](chapter4/section4.2.md)
+    * [订单状态查询](chapter4/section4.3.md)
+* 5.附件
+    * [数据一致性](chapter5/section5.1.md)
+    * [返回码定义](chapter5/section5.2.md)
+    * [订单状态定义](chapter5/section5.3.md)
+    * [坐标系定义](chapter5/section5.4.md)
+* 6.Models
+    * [AuthInfo](chapter6/section6.1.md)
+    * [TaxiTrack](chapter6/section6.2.md)
+    * [TaxiPosition](chapter6/section6.3.md)
+    * [TaxiPrice](chapter6/section6.4.md)
+    * [TaxiRide](chapter6/section6.5.md)
+    * [Driver](chapter6/section6.6.md)
+    * [MapPoint](chapter6/section6.7.md)
+    * [TaxiConfig](chapter6/section6.8.md)
+    * [City](chapter6/section6.9.md)
+    * [TipRule](chapter6/section6.10.md)
+
