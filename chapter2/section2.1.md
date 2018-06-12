@@ -1,5 +1,5 @@
 <div align="center">
-<img src="file://D:\repository\didabook\dida.jpg" height="50" width="50" align="left">
+<img src="../dida.jpg" height="50" width="50" align="left">
 <br><p align="right">北京畅行信息技术有限公司</p>
 </div>
 
